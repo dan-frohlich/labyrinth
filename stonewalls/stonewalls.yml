@@ -1,0 +1,57 @@
+dressing:
+    - Trap Doors
+    - Spiderwebs
+    - Dead Trees
+    - Ladders
+    - Pressure Plates
+    - Thick Dust
+    - Statues
+    - Eye Lichen
+    - Mausoleums
+    - Tunnels
+    - Tripwires
+    - Clockwork
+    - Doors Appearing
+    - Hidden Entrances
+    - Broken Walls
+    - Ropes and Pulleys
+    - Revolving Rooms
+    - Elevators
+    - Walls Appearing
+    - Flagstones Shifting
+    - Water Dripping
+    - Grinding Noises
+    - Clanking Noises
+    - Wind Whistling
+    - Graffiti
+    - Cages
+    - Staircases
+    - Murals
+    - Bas-reliefs
+    - Slimy Stone
+    - Scratch Marks
+    - Broken Branches
+    - Wind Chimes
+    - Crumbling Masonry
+    - Optical Illusions
+    - Rotten Doors
+encounters:
+    - A door under siege by goblins with a ram.
+    - Goblins carrying off a prisoner
+    - A prisoner running away from a mob of goblins on their heels
+    - Goblins painting graffiti on the walls
+    - A team o Dwarves knocking down a walls
+    - A Knight of Yore puzzlign over a map
+    - A Goblin patrol having an argument
+    - Several Dwarves spraying fairies
+    - A Dwarf repairing some clockwork mechanisms beneath the flagstones
+    - Worms building a settlement in the walls
+    - A merchant with a cart
+    - Night trolls cooking a stew over a fire
+weather:
+    - A sudden frost howls down the corridor
+    - A sudden thunderstorm breaks out
+    - Thick mist descends
+    - Swelteringly hot
+    - A rain cloud follows the party
+    - Light summer rain

@@ -1,0 +1,140 @@
+goblin:
+    name:
+        - Gurdy
+        - Quiver
+        - Blorb
+        - Weech
+        - Isky Bisque
+        - F0dder
+        - Zobst
+        - Luerk
+        - Mastifiles
+        - Gruempy
+        - Blattergot
+        - Pongo
+        - Pilch
+        - Bubl
+        - Tremmle
+        - Stench
+        - Nive
+        - Sk0at
+        - Skubbin
+        - Sqeek
+        - Faustus
+        - Tomo
+        - Lowr
+        - Boing
+        - Bostle
+        - Pug
+        - Beetleglum
+        - Boegibole
+        - Barnabus
+        - Sneek
+        - Eff
+        - Mush Mug
+        - Suss
+        - Poxie
+        - Zitzie
+        - Spurgus
+    appearance:
+        - Pointy Helmet
+        - Cape
+        - Pantaloons
+        - Bulbus Nose
+        - Bat wings
+        - Bird wings
+        - Beaked Helmet
+        - Chainmail
+        - Bulky Gloves
+        - Bird feat
+        - Warty Skin
+        - Hooves
+        - Mushroom growths
+        - Spherical armor
+        - Massive Horns
+        - Feathers
+        - Bulbous Eyes
+        - Toothless
+        - Mysterious mask
+        - Droopy Ears
+        - Monkey Face
+        - Spiked Tail
+        - Bushy Hair
+        - Beard
+        - Hunchback
+        - Shaggy Fur
+        - Reptilian Face
+        - Spiked armor
+        - Monkey arms
+        - Shapeless Robe
+        - Scales
+        - Beaked Face
+        - Cooking Apron
+        - Striped Clothing
+        - Protruding Teeth
+        - One Eye
+    equipment:
+        - Oversized Scissors
+        - Mace
+        - Wrench
+        - Paint bucket and brush
+        - Gong
+        - Jousting Lance
+        - Monocole
+        - Spiked Flail
+        - Ladle
+        - Spiked Censer
+        - Drum
+        - Grenades
+        - Tower Shield
+        - Bag of Feathers
+        - Cooking Pot Helmet
+        - Bag of Dice
+        - Dark Goggels
+        - Crossbow
+        - Battle axe
+        - Mancatcher
+        - Tiny hammer
+        - Serpent Sword
+        - Battle Standard
+        - Miniature Catapult
+        - Potted Plant
+        - Hurdy Gurdy
+        - Cleaver
+        - Whip
+        - Battle Horn
+        - Fake Wings
+        - Polearm
+        - Battering Ram
+        - Banna
+        - Nipper Stick
+        - Tobacco Pipe
+        - Minature Cannon
+    behavior:
+        - Keeps trying to sneek away to relax
+        - Maniacally aggressive, attacks everything in sight
+        - Always hungry, always foraging for unlikely foods
+        - Composing Goblin operas on the side
+        - Collecting more and more pieces of scrap armor
+        - Racing other goblins at high speeds through the Labyrinth on Goblin mounts
+        - Assembling a lot of other goblins into a personal horde
+        - Competitve Head butting
+        - Riding on the shoulders of the largest creature in the scene
+        - Ineffectivly crushing tiny insects that torments them
+        - Inventing and enforcing arbitrary laws
+        - Marching with perfect form in the wrong direction
+        -
+        -
+        -
+        -
+        -
+        -
+mount:
+    feature:
+        - Long Jumping
+        - repeats words it has heard
+        - long sticky tounge for grabbing
+        - Can track goblins through any terrain
+        - Narcoleptic
+        - Understands Englch Perfectly
+    
